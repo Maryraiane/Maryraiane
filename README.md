@@ -1,10 +1,23 @@
-## olá! eu sou a Maryraiane 😁👩🏽‍💻
+## Sobre mim
+<a>Profissional de tecnologia e gestão apaixonado pela área de t.i, com experiência em Python. Habilidades excepcionais de comunicação e trabalho em equipe, aliadas à proatividade, me permitem agregar valor através do desenvolvimento de soluções eficientes, colaboração eficaz e busca constante por melhorias. Comprometido em contribuir para o sucesso da empresa através de inovação e excelência técnica.</a>
 
- <div>
+## Interesses e foco atual
+   <li>🚀Desenvolvedor junior</li>
+   <li>👩🏽‍💻Estudante de python</li>
+<br>
+
+<div>
+ 
+ ## Github Stats
+
    <a href="https://github.com/Maryraiane">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maryraiane&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryraiane&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
+<br>
+
+## Linguagens 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryraiane&layout=compact&langs_count=6&theme=highcontrast"/>
+<br>
 
 ## Tecnologias que uso :
 <div style="display: inline_block"><br>
@@ -16,7 +29,7 @@
   
 <br>
  
-### informações de contato:
+## informações de contato:
  
 <div> 
   <a href = "mailto:raianepocket38@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
