@@ -1,5 +1,5 @@
 ## Sobre mim
-<a>Profissional de tecnologia e gestão apaixonado pela área de t.i, com experiência em Python. Habilidades excepcionais de comunicação e trabalho em equipe, aliadas à proatividade, me permitem agregar valor através do desenvolvimento de soluções eficientes, colaboração eficaz e busca constante por melhorias. Comprometido em contribuir para o sucesso da empresa através de inovação e excelência técnica.</a>
+<a> Olá! Meu nome é Maria raiane gomes pessoa , sou aficionada pelo mundo da tecnologia estou aprendendo e dedicando continuamente a superar desafios e aprimorar minhas habilidades tecnológicas nesse mundo incrível da tecnologia. </a>
 
 ## Interesses e foco atual
    <li>🚀Desenvolvedor junior</li>
