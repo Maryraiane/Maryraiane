@@ -16,7 +16,7 @@
 <br>
 
 ## Linguagens 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryraiane&layout=compact&langs_count=6&theme=highcontrast"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryraiane&layout=compact&langs_count=5&theme=highcontrast"/>
    
 
 ## Tecnologias que uso
