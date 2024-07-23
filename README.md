@@ -1,13 +1,28 @@
 ## Sobre mim
+<br>
 <a> Olá! Meu nome é Maria raiane gomes pessoa , sou aficionada pelo mundo da tecnologia amo games e estou aprendendo e dedicando continuamente a superar desafios e aprimorar minhas habilidades tecnológicas nesse mundo incrível da tecnologia. </a>
-
+           <br>                                                                                                      
 ## Interesses e foco atual
+
    <li>🚀Desenvolvedor Fullstack</li>
    <li>👩🏽‍💻Estudante de python</li>
+
+   
 <br>
 
+
+<img src="https://media1.tenor.com/m/KXhZY-v5dboAAAAC/bubbles-angry.gif" alt="Angry Bubbles" width="150px" style="float: right; margin-right: 9000px;">
+
+
+
+## Conquistas
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://github-profile-trophy.vercel.app/?Maryraiane=ryo-ma&theme=juicyfresh">
+
+
 <div>
- 
+
  ## Github Stats
 
    <a href="https://github.com/Maryraiane">
@@ -16,10 +31,14 @@
 <br>
 
 ## Linguagens 
+
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryraiane&layout=compact&langs_count=5&theme=highcontrast"/>
    
 
 ## Tecnologias que uso
+
+<img src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif">
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -39,4 +58,7 @@
 ## Portfolio
 
 <a href="https://maryraiane.github.io/">Portfolio</a>
+
+
+
 
