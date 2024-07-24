@@ -1,4 +1,3 @@
-<head>  </head>
 
 ## Sobre mim
 <br>
@@ -9,7 +8,7 @@
 ## Interesses e foco atual
 
 <ul><li>🚀Desenvolvedor Junior</li>
-<li>👩🏽‍💻Estudante de python</li></ul> <img src="https://media1.tenor.com/m/KXhZY-v5dboAAAAC/bubbles-angry.gif" alt="Angry Bubbles" width="100px" height="80px" align=right>
+<li>👩🏽‍💻Estudante de python</li></ul> <img src="https://media1.tenor.com/m/KXhZY-v5dboAAAAC/bubbles-angry.gif" alt="Angry Bubbles" width="130px" height="100px" align=right>
 <br>
 
  ## Github Stats
