@@ -1,10 +1,12 @@
 ## Sobre mim
 <br>
 <a> Olá! Meu nome é Maria raiane gomes pessoa , sou aficionada pelo mundo da tecnologia amo games e estou aprendendo e dedicando continuamente a superar desafios e aprimorar minhas habilidades tecnológicas nesse mundo incrível da tecnologia. </a>
-           <br>                                                                                                      
+
+<br>    
+
 ## Interesses e foco atual
 
-   <li>🚀Desenvolvedor Fullstack</li>
+   <li>🚀Desenvolvedor Junior</li>
    <li>👩🏽‍💻Estudante de python</li>
 
    
