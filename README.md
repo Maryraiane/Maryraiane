@@ -5,17 +5,8 @@
 <br>    
 
 ## Interesses e foco atual
-
-   <li>🚀Desenvolvedor Junior</li>
-   <li>👩🏽‍💻Estudante de python</li>
-
-   
-<br>
-
-
-<img src="https://media1.tenor.com/m/KXhZY-v5dboAAAAC/bubbles-angry.gif" alt="Angry Bubbles" width="150px" style="float: right; margin-right: 9000px;">
-
-
+<li>🚀Desenvolvedor Junior</li>
+<li>👩🏽‍💻Estudante de python</li> <img src="https://media1.tenor.com/m/KXhZY-v5dboAAAAC/bubbles-angry.gif" alt="Angry Bubbles" width="100px" height="80px" align=right>
 
 ## Conquistas
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
@@ -39,7 +30,7 @@
 
 ## Tecnologias que uso
 
-<img src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif">
+<img align=right width=120px height=80px src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
