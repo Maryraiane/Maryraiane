@@ -1,14 +1,15 @@
 
 ## Sobre mim
 <br>
+<img src="https://media1.tenor.com/m/EAY6Xa9_JjsAAAAC/toothless-how-to-train-your-dragon.gif" width="170px" height="150px" align=right>
 <p> Olá! Meu nome é Maria raiane gomes pessoa , sou aficionada pelo mundo da tecnologia amo games e estou aprendendo e dedicando continuamente a superar desafios e aprimorar minhas habilidades tecnológicas nesse mundo incrível da tecnologia. </p>
 
 <br>    
 
 ## Interesses e foco atual
-
+<img src="https://media1.tenor.com/m/KXhZY-v5dboAAAAC/bubbles-angry.gif" alt="Angry Bubbles" width="150px" height="150px" align=right>
 <ul><li>🚀Desenvolvedor Junior</li>
-<li>👩🏽‍💻Estudante de python</li></ul> <img src="https://media1.tenor.com/m/KXhZY-v5dboAAAAC/bubbles-angry.gif" alt="Angry Bubbles" width="130px" height="100px" align=right>
+<li>👩🏽‍💻Estudante de python</li></ul> 
 <br>
 
  ## Github Stats
