@@ -1,3 +1,6 @@
+<!-- Snake -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> contribuicoes:
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Maryraiane/Maryraiane/output/github-contribution-grid-snake-dark.svg" />
 
 ## Sobre mim
 <br>
