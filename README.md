@@ -1,6 +1,3 @@
-<!-- Snake -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> contribuicoes:
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Maryraiane/Maryraiane/output/github-contribution-grid-snake-dark.svg" />
 
 ## Sobre mim
 <br>
@@ -17,17 +14,13 @@
 
  ## Github Stats
 
+<img height="220em" width="auto" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryraiane&layout=compact&langs_count=5&theme=highcontrast"/>
    <a href="https://github.com/Maryraiane">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maryraiane&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 
 <br>
-
-## Linguagens 
-
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryraiane&layout=compact&langs_count=5&theme=highcontrast"/>
-   
-
-## Tecnologias que uso
+ 
+## Tecnologias 
 
 <img align=right width=120px height=80px src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif">
 
@@ -40,7 +33,7 @@
   
 <br>
  
-## informações de contato
+## Informações de contato
  
 <div> 
   <a href = "mailto:raianepocket38@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -51,6 +44,8 @@
 
 <a href="https://maryraiane.github.io/">Portfolio</a>
 
-
+<!-- Snake -->
+##  Minhas contribuições:
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Maryraiane/Maryraiane/output/github-contribution-grid-snake-dark.svg" />
 
 
