@@ -2,7 +2,7 @@
 ## Sobre mim
 <br>
 <img src="https://media1.tenor.com/m/EAY6Xa9_JjsAAAAC/toothless-how-to-train-your-dragon.gif" width="170px" height="150px" align=right>
-<p> Olá! Meu nome é Maria raiane gomes pessoa , sou aficionada pelo mundo da tecnologia amo games e estou aprendendo e dedicando continuamente a superar desafios e aprimorar minhas habilidades tecnológicas nesse mundo incrível da tecnologia. </p>
+<p> Olá! Meu nome é Maria Raiane  , sou aficionada pelo mundo da tecnologia amo games e estou aprendendo e dedicando continuamente a superar desafios e aprimorar minhas habilidades tecnológicas nesse mundo incrível da tecnologia. </p>
 
 <br>    
 
