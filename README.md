@@ -8,7 +8,7 @@
 
 ## Interesses e foco atual
 <img src="https://media1.tenor.com/m/KXhZY-v5dboAAAAC/bubbles-angry.gif" alt="Angry Bubbles" width="150px" height="150px" align=right>
-<ul><li>🚀Desenvolvedor Junior</li>
+<ul><li>🚀Desenvolvedor Backend</li>
 <li>👩🏽‍💻Estudante de python</li></ul> 
 <br>
 
@@ -40,9 +40,6 @@
   <a href="https://www.linkedin.com/in/maria-raiane-09b62b162/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-## Portfolio
-
-<a href="https://maryraiane.github.io/">Portfolio</a>
 
 <!-- Snake -->
 ##  Minhas contribuições:
