@@ -8,8 +8,8 @@
 
 ## Interesses e foco atual
 <img src="https://media1.tenor.com/m/KXhZY-v5dboAAAAC/bubbles-angry.gif" alt="Angry Bubbles" width="150px" height="150px" align=right>
-<ul><li>🚀Desenvolvedor Backend</li>
-<li>👩🏽‍💻Estudante de python</li></ul> 
+<ul><li>🚀Desenvolvedor Front end </li>
+<li>👩🏽‍💻Estudante </li></ul> 
 <br>
 
  ## Github Stats
