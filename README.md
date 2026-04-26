@@ -8,7 +8,7 @@
 
 ## Interesses e foco atual
 <img src="https://media1.tenor.com/m/KXhZY-v5dboAAAAC/bubbles-angry.gif" alt="Angry Bubbles" width="150px" height="150px" align=right>
-<ul><li>🚀Desenvolvedor Front end </li>
+<ul><li>🚀Software Developer</li></ul>
 <li>👩🏽‍💻Estudante </li></ul> 
 <br>
 
